@@ -10,6 +10,24 @@ I'm qunerCl0ud
 
 - 😺 Learning C++ & Dart & Pytorch
 
+### Learning & Trying
+- #### Deep Learning & Computer Vision
+![Pytorch](https://img.shields.io/badge/Pytorch%20Vision-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
+![Pytorch](https://img.shields.io/badge/Yolo%20V5&V8-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
+![Tensorflow](https://img.shields.io/badge/(Paused)Tensorflow%20Keras-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
+
+- #### App Dev
+![iOS](https://img.shields.io/badge/iOS%20Swift-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter%20Dart-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF&labelColor=000000)
+![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=FFFFFF&labelColor=000000)
+
+- #### Web Dev
+![PHP](https://img.shields.io/badge/PHP%207.4-000000?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=000000)
+
+- #### SYS Dev
+![openWRT](https://img.shields.io/badge/openWRT%2023.02-000000?style=for-the-badge&logo=openwrt&logoColor=FFFFFF&labelColor=000000)
+![AOSP](https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=000000)
+
 ### Devices
 - #### Phones
 ![iPhone12Mini](https://img.shields.io/badge/iPhone%2012%20-Mini🥰-ED9121?style=for-the-badge&logo=apple&logoColor=white&labelColor=black)
