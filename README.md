@@ -12,7 +12,7 @@ I'm qunerCl0ud
 
 ### Devices
 - #### Phones
-![iPhone12Mini](https://img.shields.io/badge/iPhone%2012%20-Mini🥰-ED9121?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=black)
+![iPhone12Mini](https://img.shields.io/badge/iPhone%2012%20-Mini🥰-ED9121?style=for-the-badge&logo=apple&logoColor=green&labelColor=black)
 ![REDMI](https://img.shields.io/badge/-RedMi%20Note12-red?style=for-the-badge&logo=xiaomi)
 
 - #### Tablets
