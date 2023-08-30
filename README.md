@@ -12,12 +12,12 @@ I'm qunerCl0ud
 
 ### Learning & Trying
 - #### Deep Learning & Computer Vision
-![Pytorch](https://img.shields.io/badge/Pytorch%20Vision-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
-![Pytorch](https://img.shields.io/badge/Yolo%20V5&V8-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
-![Tensorflow](https://img.shields.io/badge/(Paused)Tensorflow%20Keras-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
+![Pytorch](https://img.shields.io/badge/Pytorch%20Vision-000000?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=000000)
+![Pytorch](https://img.shields.io/badge/Yolo%20V5&V8-000000?style=for-the-badge&logo=yolo&logoColor=FFFFFF&labelColor=000000)
+![Tensorflow](https://img.shields.io/badge/(Paused)Tensorflow%20Keras-000000?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=000000)
 
 - #### App Dev
-![iOS](https://img.shields.io/badge/iOS%20Swift-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
+![iOS](https://img.shields.io/badge/iOS%20Swift-000000?style=for-the-badge&logo=swift&logoColor=FFFFFF&labelColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter%20Dart-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF&labelColor=000000)
 ![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=FFFFFF&labelColor=000000)
 
