@@ -21,7 +21,7 @@ I'm qunerCl0ud
 ![Server](https://img.shields.io/badge/DELL%20R720XD-000000?style=for-the-badge&logo=DELL&logoColor=FFFFFF&labelColor=000000)
 
 - #### Wearable device
-![Miwatch](https://img.shields.io/badge/MiWatch%20%20x-DCDCDC?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)
+![Miwatch](https://img.shields.io/badge/MiWatch%20%20-DCDCDC?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)
 
 ### Operating system
 - #### MacOS
@@ -38,4 +38,4 @@ I'm qunerCl0ud
 - #### Android
 ![Android](https://img.shields.io/badge/Android%2012-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)
 ![Android](https://img.shields.io/badge/LineageOS%2019-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)
-[![WSA2](https://img.shields.io/badge/Windoes%20Subsystem%20for%20Android%202-00C000?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
+[![WSA2](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android%202-00C000?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
