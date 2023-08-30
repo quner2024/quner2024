@@ -6,9 +6,9 @@ I'm qunerCl0ud
    </div>
    
 
-- 📚 Senior High School Student
+- 📚 Senior High School Student.
 
-- 😺 Learning C++ & Dart & Pytorch
+- 😺 A poor noob now.
 
 ### Learning & Trying
 - #### Deep Learning & Computer Vision
