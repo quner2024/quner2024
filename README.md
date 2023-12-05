@@ -2,12 +2,10 @@
 
 # Hi there 🥰👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qunerCloud&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-     <a href="https://github.com/qunerCloud"><img src="/logo.png" width="auto" height="auto"                                              alt="logo.png" style="border: 2px solid cyan; border-radius: 50%"></a>
-   </div>
+</div>
    
 
 - 📚 Senior High School Student.
