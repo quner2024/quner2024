@@ -8,9 +8,9 @@
 </div>
    
 
-- 📚 Senior High School Student.
+- 📚 Undergraduate Student.
 
-- 😺 A poor noob now.
+- 😺 A poor noob.
 
 ### Learning & Trying
 - #### Deep Learning & Computer Vision
@@ -39,8 +39,10 @@
 ![iPad 10](https://img.shields.io/badge/ipad%2010-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
 ![MacbookPro](https://img.shields.io/badge/Macbook%20Pro-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
 ![Server](https://img.shields.io/badge/DELL%20R720XD-000000?style=for-the-badge&logo=DELL&logoColor=FFFFFF&labelColor=000000)
+![Server](https://img.shields.io/badge/HUAWEI%20RH2288V3-000000?style=for-the-badge&logo=DELL&logoColor=FFFFFF&labelColor=000000)
 
 - #### Wearable device
+![Apple Watch](https://img.shields.io/badge/AppleWatch%20%20-DCDCDC?style=for-the-badge&logo=Apple&logoColor=F8F8FF&labelColor=000000)
 ![Miwatch](https://img.shields.io/badge/MiWatch%20%20-DCDCDC?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)
 
 ### Operating system
