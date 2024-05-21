@@ -1,7 +1,7 @@
 #### I don't need sex, life fucks me everyday.
 
 # Hi there 🥰👋
-[![quner's GitHub stats](https://github-readme-stats-tawny-zeta-29.vercel.app/api?username=qunerCloud&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![quner's GitHub stats](https://github-readme-stats-tawny-zeta-29.vercel.app/api?username=quner2024&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-tawny-zeta-29.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div>
