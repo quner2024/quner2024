@@ -8,8 +8,6 @@
 </div>
    
 
-- 📚 Undergraduate Student.
-
 - 😺 A poor noob.
 
 ### Learning & Trying
