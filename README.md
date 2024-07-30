@@ -8,7 +8,7 @@
 </div>
    
 
-- 😺 A poor noob.
+- 😺 A noob.
 
 ### Learning & Trying
 - #### Deep Learning & Computer Vision
